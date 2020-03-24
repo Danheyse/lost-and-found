@@ -1,8 +1,9 @@
 <?php 
 /* ---------------------------------------------------------------------------
- * filename    : fr_per_update.php
- * author      : George Corser, gcorser@gmail.com
- * description : This program updates one volunteer's details (table: persons)
+ * filename    : per_update.php
+ * author      : Daniel Heyse
+ * Based off of: https://github.com/cis355/fr
+ * description : This program updates one usersr's details (table: persons)
  * ---------------------------------------------------------------------------
  */
 session_start();

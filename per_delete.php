@@ -2,7 +2,7 @@
 /* ---------------------------------------------------------------------------
  * filename    : per_delete.php
  * author      : Daniel Heyse
-   Based off of: https://github.com/cis355/fr/blob/master/fr_per_delete.php
+ * Based off of: https://github.com/cis355/fr/blob/master/fr_per_delete.php
  * description : This program deletes one user's details (table: persons)
  * ---------------------------------------------------------------------------
  */

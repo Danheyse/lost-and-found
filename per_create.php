@@ -1,8 +1,9 @@
 <?php 
 /* ---------------------------------------------------------------------------
- * filename    : fr_per_create2.php
- * author      : George Corser, gcorser@gmail.com
- * description : This program adds/inserts a new volunteer (table: persons)
+ * filename    : per_create.php
+ * author      : Daniel Heyse
+ * Based off of: https://github.com/cis355/fr
+ * description : This program adds/inserts a new user (table: persons)
  * ---------------------------------------------------------------------------
  */
 session_start();
